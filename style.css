@@ -130,12 +130,12 @@ body{
     outline: none;
 }
 
-.boton :hover{
+.boton:hover{
     background-color: black;
     color: white;
 }
 
-.boton :active{
+.boton:active{
     background-color: black;
     color: white;
 }
