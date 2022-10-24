@@ -135,6 +135,11 @@ body{
     color: white;
 }
 
+.boton :active{
+    background-color: black;
+    color: white;
+}
+
 
 
 
