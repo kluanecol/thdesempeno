@@ -130,6 +130,12 @@ body{
     outline: none;
 }
 
+.boton :hover{
+    background-color: black;
+    color: white;
+}
+
+
 
 
 .tuto{
