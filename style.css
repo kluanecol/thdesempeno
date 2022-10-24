@@ -129,27 +129,10 @@ body{
     z-index: 3;
     outline: none;
 }
-.button:hover{
-    background-color: black;
-    color: white;
-}
-
-.button:active{
-    background-color: black;
-    color: white;
-}
 .boton:hover{
     background-color: black;
     color: white;
 }
-
-.boton:active{
-    background-color: black;
-    color: white;
-}
-
-
-
 
 .tuto{
     width: 100%;
