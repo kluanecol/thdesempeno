@@ -154,7 +154,26 @@ body{
     background-color: greenyellow;
     color: black;
 }
-
+.idea{
+    position: relative;
+    /* bottom: 45%; */
+    margin-left: 3%;
+    margin-top: 2%;
+    background-image: url(images\bombilla.png);
+    color: #002552;
+    border-radius: 50px;
+    /* border-color: white; */
+    width: 15%;
+    height: 10%;
+    font-size: 18px;
+    font-weight: bold;
+    z-index: 3;
+    outline: none;
+}
+.idea:hover{
+    background-color: greenyellow;
+    color: black;
+}
 .tuto{
     width: 100%;
     height: 95vh;
