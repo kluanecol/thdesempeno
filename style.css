@@ -162,6 +162,7 @@ body{
     background-image: url(images/bombilla.png);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: 10%;
     color: #002552;
     border-radius: 50px;
     /* border-color: white; */
