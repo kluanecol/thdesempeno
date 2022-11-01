@@ -161,8 +161,8 @@ body{
     margin-top: 2%;
     background-image: url(images/bombilla.png);
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: 10%;
+    background-position: 20%;
+    background-size: 25%;
     color: #002552;
     border-radius: 50px;
     /* border-color: white; */
