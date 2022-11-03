@@ -352,12 +352,14 @@ body{
    .boton{
     width: auto;
     height: 6%;
+    top: 15%;
+    margin-top: 5%;
    }
    .menu{
     background-color: #002450;
    } 
    .bluemenu{
-    top:50%;
+    top:120%;
     left: 0%;
     font-size: smaller;
     width: 100%;
@@ -365,6 +367,14 @@ body{
    }
    .barmenu img{
     width: 20%;
+   }
+   .idea{
+    width: auto;
+    margin-top: 37%;
+   }
+   .back{
+    width: auto;
+    margin-top: 37%;
    }
 
 }
