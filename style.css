@@ -342,7 +342,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
-@media only screen and (max-width : 900px) {
+@media only screen and (max-width : 320px) { 
 
     .home img{
         position: fixed;
@@ -378,5 +378,42 @@ body{
     margin-top: 37%;
    }
   
+
+}
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+
+    .home img{
+        position: fixed;
+        left: 0%;
+        height: 100%;
+        width: 100%;
+    }
+   .boton{
+    width: auto;
+    height: 6%;
+    top: 15%;
+    margin-top: 5%;
+   }
+   .menu{
+    background-color: #002450;
+   } 
+   .bluemenu{
+    top:120%;
+    left: 0%;
+    font-size: smaller;
+    width: 100%;
+
+   }
+   .barmenu img{
+    width: 15%;
+   }
+   .idea{
+    width: auto;
+    margin-top: 37%;
+   }
+   .back{
+    width: auto;
+    margin-top: 37%;
+   }
 
 }
