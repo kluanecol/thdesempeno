@@ -347,6 +347,7 @@ body{
     .home img{
         left: -70%;
         height: 100%;
+        width: auto;
     }
    .boton{
     width: auto;
@@ -359,6 +360,7 @@ body{
     top:50%;
     left: 0%;
     font-size: smaller;
+    width: 100%;
 
    }
    .barmenu img{
