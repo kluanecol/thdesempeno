@@ -376,5 +376,8 @@ body{
     width: auto;
     margin-top: 37%;
    }
+   html{
+    height: auto;
+   }
 
 }
